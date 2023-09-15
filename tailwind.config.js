@@ -16,9 +16,14 @@ module.exports = {
         mono: ["Montserrat","sans-serif"],
         lato: ["Lato","sans-serif"],
         pop: ["Poppins","sans-serif"],
+        open: ["Open Sans","sans-serif"],
+        fig: ["Figtree","sans-serif"]
       },
       borderRadius:{
         'bd':'10px',
+      },
+      boxShadow: {
+        'xl': '4px 4px 20px 0px rgba(0, 0, 0, 0.10);'
       }
     },
   },
